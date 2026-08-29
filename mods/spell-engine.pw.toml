@@ -1,0 +1,13 @@
+name = "Spell Engine"
+filename = "spell_engine-neoforge-1.9.15+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78df4094eadf05da4a856432ec2e9d388a04b31d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8563964
+project-id = 807653

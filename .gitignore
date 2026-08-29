@@ -1,0 +1,5 @@
+mods/*.jar
+shaderpacks/*.zip
+resourcepacks/*.zip
+*.jar
+*.zip

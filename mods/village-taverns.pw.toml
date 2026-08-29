@@ -1,0 +1,13 @@
+name = "Village Taverns (RPG Series)"
+filename = "village_taverns-neoforge-1.1.5+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dbee7ffe175e79b836ad01fedbebd8e69a2cd80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7203402
+project-id = 1178224

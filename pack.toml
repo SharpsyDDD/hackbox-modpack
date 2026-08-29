@@ -1,0 +1,13 @@
+name = "Hackbox Modpack"
+author = "sharpsyd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b33e1d474433042cd7d9d381fc57fdaac88e21cd4a38834d5a0c1660306ce3b7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"
