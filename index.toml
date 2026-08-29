@@ -96,8 +96,8 @@ hash = "3edf2d2e08e81d62d7ddb8508a343a563e3e863946c5c616e9edbcb576ae9da9"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "fa68bc1eb6c832087e11a130e589cabeb1a891ea94db8246abd245745556b68d"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
 
 [[files]]
@@ -761,11 +761,6 @@ hash = "a2348299d70ed7af9bb57b1a8ff034dd3136ff9468aa91479405f2599cd1c0a9"
 metafile = true
 
 [[files]]
-file = "mods/simply-more.pw.toml"
-hash = "fadbaf572d951f9670ffbc5c2157695afc3d40da11626dcbdc6ff105a3f62b20"
-metafile = true
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "d1256812bf0244b3914af4206cba1203dd51a3c849c5592315ac707f8941f9f2"
 metafile = true
@@ -773,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "529ad0d8a91e6cdbd8e9460f80ad9f4bcb393020749632c2ff77e6835c812a4b"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "92ff88d6d763defa12eddfbfce2cf152c95e06148278f5292044f7a84a210c12"
 metafile = true
 
 [[files]]
