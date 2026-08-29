@@ -76,6 +76,11 @@ hash = "f521af035e4ecd1dbbba581d97d0454066f4269620b4993acf4184df351ec754"
 metafile = true
 
 [[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "95f8b9d6e4f99f013db21c9f40dae30be5f1a08b91a3612fd3606c868858f710"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "3edf2d2e08e81d62d7ddb8508a343a563e3e863946c5c616e9edbcb576ae9da9"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fa68bc1eb6c832087e11a130e589cabeb1a891ea94db8246abd245745556b68d"
 metafile = true
 
 [[files]]
@@ -336,6 +346,11 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6a2693aaab21ce7c32b958b81ee5e9cad0d014cdf68c067049b2fc652159d9d1"
 metafile = true
@@ -456,6 +471,36 @@ hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-choicetheorems-overhauled.pw.toml"
+hash = "01be52ea84fb04197908d5d27e0747a8c2a2c487ae0ca328d25e44de04ed096c"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
+hash = "0482e4149cbb3753e95aa7eeccad98f912cdb15787f334752872bc6308b18e31"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "1d1900af1cdbab0494705ff36698c1bb40eb307df68688d079e5e18e7781a80e"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "77e5134ff2eb8f51a56558c72cf483e558964f35c92f7aba7ca7207dac3fac9c"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
+hash = "7026f74dbcd8e7fefc638bb14d5dc190eb1a329c7c7325cfc1f848c8c9138d21"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "5b6e513d543f82ffd9f01ef217e3abb7b55da78184bf52f07d2cc305f1ce16f7"
 metafile = true
@@ -506,6 +551,11 @@ hash = "781392439efd09ca5a54cfc423cd5243667c752a186bf6a46379c5403799283d"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "90f0033b66d093452767719c725914a8a2b148e99d0b10547fa15226382364e8"
 metafile = true
@@ -533,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "1ff330b182840239f0216132374854c2a8bf346c6ce9e7623f93b333df973d7d"
+metafile = true
+
+[[files]]
+file = "mods/more-totems-of-undying.pw.toml"
+hash = "2bd74bd5acd73e46244e90843b29355337106fbf316b254de5d92358bc94f3b2"
 metafile = true
 
 [[files]]
@@ -628,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "18acfb6f1a54fea702fee947029a260ff6ac865aad5fc64a3ed6193eabac830a"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
 
 [[files]]
@@ -801,6 +861,11 @@ hash = "88e157ffdd059132489a5bd54b595b1f643f3945e9d4aa0cbddb0e5052b8d58a"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "8d43ef6d5520e1801d75562f329668215cf3a523ec5fc360bf3a5f138fe6ec41"
+metafile = true
+
+[[files]]
 file = "mods/village-taverns.pw.toml"
 hash = "bd5b0029a19ae966e40b89a0e5e16f0f994b8cee802236689235c88280f2f99d"
 metafile = true
@@ -838,6 +903,11 @@ metafile = true
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "6b548f0402651a554b18cb6560bf85744d0827dfd001bb66232904e7962258e1"
+metafile = true
+
+[[files]]
+file = "mods/yung-structures-addon-for-loot-integrations.pw.toml"
+hash = "c55a7700633fe3bf1e490aad3166bad5381902822ad8bc86c74663603698e036"
 metafile = true
 
 [[files]]
